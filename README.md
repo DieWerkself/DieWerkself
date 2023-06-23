@@ -4,11 +4,11 @@ Hi 👋 My name is Dmitry Semenov
 Frontend Developer
 ------------------
 
-I have been creating websites for myself since 2008(uses CMS Joomla). In August 2022, I realized that I wanted to turn my hobby into a job, and I began to study professional tools for developing websites and interfaces.
+I have been creating websites for myself since 2008(uses CMS Joomla). In August 2022, I began to study professional tools for developing websites and interfaces.
 
 * 🌍  I'm based in St. Petergburg
 * ✉️  You can contact me at [redead29@gmail.com](mailto:redead29@gmail.com)
-* 🧠  I'm learning TypeScript, React.
+* 🧠  I'm learning TypeScript.
 * 🤝  I'm open to collaborating on all areas of frontend development
 
 ### Skills
