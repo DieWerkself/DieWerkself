@@ -6,7 +6,7 @@ Frontend Developer
 
 I have been creating websites for myself since 2008(uses CMS Joomla). In August 2022, I began to study professional tools for developing websites and interfaces.
 
-* 🌍  I'm based in St. Petergburg
+* 🌍  I'm based in St. Petersburg
 * 🖥️  See my portfolio at [here](http://ds-pf.netlify.app/)
 * ✉️  You can contact me at [redead29@gmail.com](mailto:redead29@gmail.com)
 * 🧠  I'm learning TypeScript.
