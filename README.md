@@ -1,4 +1,4 @@
-Hi 👋 My name is Dmitry Semenov
+Hi 👋 My name is Dmitry
 ===============================
 
 Frontend Developer
