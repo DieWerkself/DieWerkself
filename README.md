@@ -9,7 +9,7 @@ I have been creating websites for myself since 2008(uses CMS Joomla). In August 
 * 🌍  I'm based in St. Petersburg
 * 🖥️  See my portfolio at [here](http://ds-pf.netlify.app/)
 * ✉️  You can contact me at [redead29@gmail.com](mailto:redead29@gmail.com)
-* 🧠  I'm learning TypeScript.
+* 🧠  I'm learning TypeScript, Express, PostgreSQL.
 * 🤝  I'm open to collaborating on all areas of frontend development
 
 ### Skills
